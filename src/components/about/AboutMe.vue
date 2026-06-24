@@ -11,17 +11,12 @@ export default {
 				{
 					id: 2,
 					bio:
-						"I am a graduate with a Bachelors in Software Engineering (Co-op) from McMaster University (Hamilton, ON). I'm currently working at IBM as an Associate Developer, where I am part of the Gen AI - CX team, withing IBM Consulting.",
+						"I am a graduate with a Bachelors in Software Engineering (Co-op) from McMaster University (Hamilton, ON). I'm currently working at IBM Consulting as an AI Fullstack Developer, part of the Artificial Intelligence & Analytics Practice, where I build agentic AI and full-stack solutions for enterprise clients.",
 				},
 				{
 					id: 3,
 					bio:
-						"I have a keen interest in cloud technologies and full stack web development, and have gotten a chance to explore both these fields extensively through my internships at Royal Bank of Canada, Tucows, and DRW.",
-				},
-				{
-					id: 4,
-					bio:
-						"Apart from my technical work, I also enjoy organizing and volunteering for events. In November 2022, I had the privilege of functioning as the VP Sponsorship for the First Year Integration Conference, presented by Ontario Society of Professional Engineers (OSPE). By starting the organizing process 4 months prior, and working closely with several sponsors, the weekend-long conference successfully hosted over 100 delegates who attended from 16 universities across Ontario.",
+						"I have a keen interest in cloud infrastructure, agentic AI, and full stack web development, and have gotten a chance to explore these fields extensively through my work at IBM and my prior internships at Royal Bank of Canada, Tucows, and DRW.",
 				},
 				{
 					id: 4,

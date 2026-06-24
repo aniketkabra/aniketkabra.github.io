@@ -6,9 +6,9 @@ export default {
 	},
 	data: () => {
 		return {
-			cumilativeGPA: "Cumilative GPA out of 4.0",
-			graduationTitle: 'Graduated with Distinction',
-			awardTitle: 'Awarded the McMaster Engineering International Honour Award'
+			experienceTitle: "Years of Fullstack Developer Experience",
+			savingsTitle: 'Delivered in Estimated Client Savings',
+			efficiencyTitle: 'Faster Task Completion Time for AI Assistant Clients'
 		};
 	},
 };
@@ -24,41 +24,41 @@ export default {
 			<div class="mb-20 sm:mb-0">
 				<div
 					class="font-general-medium text-4xl font-bold text-secondary-dark dark:text-secondary-light mb-2"
-					aria-label="Cumilative GPA"
-				> 3.9
+					aria-label="Years of Experience"
+				> 3+
 				</div>
 				<span
 					class="block text-md text-ternary-dark dark:text-ternary-light"
 				>
-					{{ cumilativeGPA }}
+					{{ experienceTitle }}
 				</span>
 			</div>
 
-			<!-- Positive feedback counter -->
+			<!-- Client savings counter -->
 			<div class="mb-20 sm:mb-0">
 				<div
 					class="font-general-medium text-4xl font-bold text-secondary-dark dark:text-secondary-light mb-2"
-					aria-label="Graduation Year"
-				> 2024
+					aria-label="Client Savings"
+				> $25M+
 				</div>
 				<span
 					class="block text-md text-ternary-dark dark:text-ternary-light"
 				>
-					{{ graduationTitle }}
+					{{ savingsTitle }}
 				</span>
 			</div>
 
-			<!-- Projects completed counter -->
+			<!-- Operational efficiency counter -->
 			<div class="mb-20 sm:mb-0">
 				<div
 					class="font-general-medium text-4xl font-bold text-secondary-dark dark:text-secondary-light mb-2"
-					aria-label="Award Year"
-				> 2019
+					aria-label="Operational Efficiency"
+				> 60%
 				</div>
 				<span
 					class="block text-md text-ternary-dark dark:text-ternary-light"
 				>
-					{{ awardTitle }}
+					{{ efficiencyTitle }}
 				</span>
 			</div>
 		</div>

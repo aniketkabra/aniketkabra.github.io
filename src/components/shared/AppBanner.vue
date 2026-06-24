@@ -36,7 +36,7 @@ export default {
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
 			>
-				A fifth year Software Engineering Student at McMaster University
+				AI Fullstack Developer at IBM Consulting
 			</p>
 			<div class="flex justify-center sm:block">
 				<a

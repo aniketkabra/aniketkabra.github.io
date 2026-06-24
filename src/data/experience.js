@@ -3,8 +3,8 @@
 const experiences = [
 	{
 		id: 1,
-		title: 'Artificial Intelligence Developer',
-		category: 'IBM',
+		title: 'AI Fullstack Developer',
+		category: 'IBM Consulting',
         date: 'Since August 2024',
 		img: require('@/assets/images/IBM.png'),
 	},
@@ -56,7 +56,7 @@ const experiences = [
 		category: 'McMaster Engineering Society (MES)',
         date: 'September 2022 - April 2022',
 		img: require('@/assets/images/mes.png'),
-	}
+	},
 ];
 
 export default experiences;

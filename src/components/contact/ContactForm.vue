@@ -11,7 +11,7 @@ export default {
 	methods: {
 		setHref() {
 			let emailButton = document.getElementById("sendEmail");
-			var emailHref = "mailto:kabraa@mcmaster.ca?";
+			var emailHref = "mailto:aniketkabra2001@gmail.com?";
 			var emailName = encodeURIComponent(this.FullName);
 			var emailSubject = encodeURIComponent(this.SubjectVariable);
 			var emailBody = encodeURIComponent(this.BodyVariable);

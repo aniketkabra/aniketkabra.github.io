@@ -3,6 +3,60 @@
 const projectDetails = [
 	{
 		id: 1,
+		title: 'portfolio',
+		singleProjectHeader: {
+			singleProjectTitle: 'Portfolio - A live demonstration of frontend skills',
+			singleProjectDate: '2025',
+		},
+		singleProjectImages: [
+			{
+				id: 1,
+				title: 'Portfolio Image',
+				img: require('@/assets/images/portfolio.png'),
+			},
+		],
+		singleProjectInfo: {
+			clientHeading: 'Sample',
+			companyInfos: [
+				{
+					id: 1,
+					title: "Website",
+					details: "https://aniketkabra.me"
+				},
+			],
+			technologies: [
+				{
+					title: 'Tools & Technologies',
+					techs: [
+						'Vue.js',
+						'Javascript',
+						'GitHub Pages',
+						'GitHub Actions',
+					],
+				},
+			],
+			projectDetailsHeading: 'Overview',
+			projectDetails: [
+				{
+					id: 1,
+					details:
+						"Built and customized this personal portfolio site on top of a Vue.js template, extending and modifying components to reflect personal branding and project showcasing.",
+				},
+				{
+					id: 2,
+					details:
+						"Deployed via GitHub Pages with a custom domain, serving as a live demonstration of front-end development and UI customization skills.",
+				},
+				{
+					id: 3,
+					details:
+						"Set up a CI/CD pipeline with GitHub Actions so the site builds and deploys automatically on every push, removing the need for a manual deploy step.",
+				},
+			],
+		},
+	},
+	{
+		id: 2,
 		title: 'capstone',
 		singleProjectHeader: {
 			singleProjectTitle: 'Crowdfeeding - Fresh Free Food',
@@ -61,7 +115,7 @@ const projectDetails = [
 		},
 	},
 	{
-		id: 2,
+		id: 3,
 		title: 'rxeasy',
 		singleProjectHeader: {
 			singleProjectTitle: 'RxEasy - Making prescription monitoring Rx-tremely easy',
@@ -123,7 +177,7 @@ const projectDetails = [
 		},
 	},
 	{
-		id: 3,
+		id: 4,
 		title: 'lowkey',
 		singleProjectHeader: {
 			singleProjectTitle: 'LowKey - A Command Line Typing Test',
@@ -181,7 +235,7 @@ const projectDetails = [
 		},
 	},
 	{
-		id: 4,
+		id: 5,
 		title: 'connect2',
 		singleProjectHeader: {
 			singleProjectTitle: 'Connect2 - Making friends in University, simplified.',
@@ -242,7 +296,7 @@ const projectDetails = [
 		},
 	},
 	{
-		id: 5,
+		id: 6,
 		title: 'imageClassifier',
 		singleProjectHeader: {
 			singleProjectTitle: 'Python Image Classifier',
@@ -298,7 +352,7 @@ const projectDetails = [
 		},
 	},
 	{
-		id: 6,
+		id: 7,
 		title: 'halfway',
 		singleProjectHeader: {
 			singleProjectTitle: 'Picking a movie has never been easier.',
@@ -352,7 +406,7 @@ const projectDetails = [
 		},
 	},
 	{
-		id: 7,
+		id: 8,
 		title: 'Instatute',
 		singleProjectHeader: {
 			singleProjectTitle: 'Plan, schedule, and communicate on the go.',

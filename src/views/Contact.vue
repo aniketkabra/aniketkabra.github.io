@@ -18,7 +18,7 @@ export default {
 				},
 				{
 					id: 2,
-					name: 'kabraa@mcmaster.ca',
+					name: 'aniketkabra2001@gmail.com',
 					icon: 'mail',
 				},
 			],
