@@ -6,7 +6,7 @@ const projectDetails = [
 		title: 'portfolio',
 		singleProjectHeader: {
 			singleProjectTitle: 'Portfolio - A live demonstration of frontend skills',
-			singleProjectDate: '2025',
+			singleProjectDate: '2026',
 		},
 		singleProjectImages: [
 			{
