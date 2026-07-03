@@ -40,7 +40,7 @@ export default {
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
-					href="https://www.dropbox.com/scl/fi/kwiquy14mma5oml19474e/Resume_AniketKabra_2026_final.pdf?rlkey=tp45y5h5schx4peks3v0aizs1&st=1t3mzryx&dl=0"
+					href="https://www.dropbox.com/scl/fi/03yhxu6vsmvlitze1e0og/Resume_AniketKabra_2026.pdf?rlkey=2plutsuvulb08gjx9fvnat2lm&st=32fwflxu&dl=0"
 					rel="noopener noreferrer"
 					target="_blank"
 					class="flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 sm:mb-0 text-lg border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500 text-gray-500 hover:text-white duration-500"
